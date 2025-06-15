@@ -1,0 +1,12 @@
+name: Rstudio_drug_analysis_psychology_datasets
+title: Rstudio_drug_analysis_psychology_datasets
+username: romainjazzar
+account: romainjazzar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14936857
+bundleId: 10457896
+url: https://romainjazzar.shinyapps.io/Rstudio_drug_analysis_psychology_datasets/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
